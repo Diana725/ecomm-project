@@ -1,0 +1,18 @@
+.sellerbanner{
+    color: black;
+    font-family: Poppins;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: none;
+    padding-top: 5px;
+}
+.sellerbanner button{
+    color: white;
+    background: #ff4141;
+    border: none;
+    border-radius: 5px;
+    width: auto;
+    height: 40px;
+    font-weight: 600;
+}
